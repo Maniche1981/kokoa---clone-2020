@@ -1,3 +1,3 @@
 # Kokoa Clone
 
-My firs t project with Git
+Hmtl + Css first project
